@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-25aedb05a8fe2be61577daae04ae4e09be492d4a.jar" />
+    </item>
+    <item
+        jar="H:\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\support-annotations-22.2.1-4166c7e538bb1ad84067795b94ba1bc53f88b740.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-d8af7dba1b70ea80e3b86d4d93315f17d5509b89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\google-http-client-1.19.0-fef7e9f8cb1856319e8c433b82bcf51767bb1626.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\google-http-client-android-1.19.0-55a244d93769cc9b853c6dda561a44bf77ae8d1b.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-e0d4dfb1c608dd1773cf63c84d35d37baaff0015.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-6b9677fb34337522a00217db5671aefe282416b3.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-e2a6383330000398c70bc93eb75cf43550bdb897.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\JokesGCE\build\libs\JokesGCE-android-endpoints.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="519f644a55aa4d064feef8e2da6d36f245633958">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\JokesGCE-android-endpoints-41be06de19a649b9fbea3b84ea7dceebf88ebd22.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-e9474567ddd5ce4c9a0808b210be25d4a7269c47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\google-oauth-client-1.19.0-e2b915d2e9ededb51c35d1b8fe61d33d4ed80b65.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\internal_impl-22.0.0-571e5741118259e05c29bca2b879a49119c1dba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\jsr305-1.3.9-c959001dd0945c505e7816d298c98db8d3dabcdc.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-8ffec5bc5f60b299ce3da67cb45ea57e90d4ffdd.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-101b7457ba09333be796e33e4ac34df8a8ecea28.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-97a6dc024bdfe1dbbfbd89796731adeaf6b96317.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\JokesApp\displayjokelib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1da8deea0c134e7fe7efe27799d9f81d18ac784a">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-df82d46c7513a4fbf4b2db1245dbd9c94d4003a7.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-c60ff18662764ceb8a4e7883567d59f257104788.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\google-api-client-1.19.0-29f029ff298b7cc3465f1ab72f1106e3adb1c6d6.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-88753f7106a35dd5b9dd95aa118014ec50ecac83.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-e3223825762b85103fb18dcee522d6c5f9005815.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-e357ad76a6e032c6b1a1e597c275a87e21222343.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-c0e5703d6c6fbfd7368210a10e68bafcc7dd618a.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-6a9b713970a1af62988eda288aeec761924a9f6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\google-api-client-android-1.19.0-8650e692b93d9cc645f5cd7b839025e72b23be54.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-0003fb326454ab22a90110c937616a9bcecaf033.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-72ab89a828d612ae86c352e8ce3f53490065a24e.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-dc80bc693bd25070358b3c3862b731a9ab9844f3.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\jokelib\build\libs\jokelib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09e6c554c9ace30cc11c35ab912f93d974ae6118">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\jokelib-00c48ddf3573ac7cbce6b030f77942ee0e52aa92.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-f53cde07fd45e28b17d161e6cf894ad89c23b28a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\jackson-core-2.1.3-60c6386d290d8257d27c02121f6c05fc75b97e19.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-a4e3ef6746fa54e2c1b34a50abeec80e0f7f5774.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\guava-jdk5-13.0-ca6dd03b020fb3cb9fd3e557363c19db4cdb05a1.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-0bbb4d9849ea07ca1e93544bcea0daf6d3fcf74b.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-59d458f64559e8b7f860cb128d5fc2856eec0a21.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\internal_impl-22.2.1-4644cd2cf8a02f2fc09e56785816af7799d70244.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\JokesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\classes-a4a815d08e9a7a81d2b3a730b68cff91aa29deb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kieran\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Nanodegree\JokesApp\app\build\intermediates\pre-dexed\free\debug\google-http-client-jackson2-1.19.0-87d10e0db3941c8dba39022640b5abe8b0e89402.jar" />
+    </item>
+
+</items>
